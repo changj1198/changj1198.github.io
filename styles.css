@@ -1,0 +1,32 @@
+body{
+    background: url("black.png"); 
+    background-color: #cccccc;
+    background-size: 2000px 2000px;
+    }
+header{
+    
+    background-color:black;
+    color:red;
+    text-allign:center;
+    padding:5px;
+    font-size:125%;
+    }
+nav{
+    line-height:30px;
+    background-color:black;
+    color:white;
+    height:1200px;
+    width:170px;
+    float:left;
+    padding:5px;
+       
+}
+p#trash{
+    font-size:125%;
+    text-align:left;
+    font-weight:bold;
+    color:yellow;
+}
+a#d{
+    color: yellow;
+    }
